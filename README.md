@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m interested in  deveeloped
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning frontend and iOS
 - 📫 How to reach me in telegram @vovkan09
 
 <!---
